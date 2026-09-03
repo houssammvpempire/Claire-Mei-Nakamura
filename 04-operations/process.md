@@ -37,7 +37,7 @@ Houssam valide → 📣 Publié
 ## 3. Traçabilité dans Notion
 
 Base de données : `🎬 Content Pipeline — Tâches réseaux sociaux`
-(`da95a09f-54d9-46b5-a856-0485dd38da50`)
+(`f9694044-115c-40bf-aaee-4681e05d3e2e` — data source `4f866447-03b1-4590-b4d8-d131272d5c29`)
 
 Colonnes : Nom, Plateforme, Statut, Agent assigné, Score review, Lien GitHub, Lien Drive, Compte inspiration.
 
